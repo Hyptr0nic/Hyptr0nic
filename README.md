@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Hyptr0nic.
 - 👀 I’m interested in Web Development.
-- 🌱 I’m currently learning HTML 5 / CSS 3 / JavaScript (Bootstrap, Angular, React, Vue.js).
+- 🌱 I’m currently learning HTML 5 / CSS 3 / JavaScript and React.
 
 <!---
 Hyptr0nic/Hyptr0nic is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
